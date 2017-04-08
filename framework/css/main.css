@@ -1,0 +1,49 @@
+body {
+	font-family: 'Permanent Marker', cursive;
+	font-family: 'Handlee', cursive;
+	color: #747704;
+	font-weight: 300
+
+
+}
+
+.text-muted {
+	color: #bcbbbb;
+}
+
+.text-thin {
+	font-weight: 100
+
+}
+
+.title-super{
+	font-size: 60px;
+
+}
+
+.title-logo{
+	margin-top: 20px; 
+
+}
+
+.border{
+	border-bottom: 1px solid black;
+}
+
+@media screen and (min-width: 500px){
+	body {background-color: blue;}
+
+}
+
+.col-md-12 {
+padding: 10px; 
+
+}
+
+a {
+	margin-left: 10px;
+}
+
+.text-uppercase{
+	margin-left: 10px;
+}
