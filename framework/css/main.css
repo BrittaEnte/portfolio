@@ -42,9 +42,8 @@ img{
     border-radius: 20px;
 }
 
-hr {
-  height: 1px;
-  width: 100%;
-  color: green;
-}
 
+.border{
+    border-bottom: 1px solid black;
+
+}
