@@ -19,10 +19,6 @@ body {
     margin-top: 20px;
 }
 
-.border {
-    border-bottom: 1px solid black;
-}
-
 .col-md-12 {
     padding: 10px;
 }
@@ -45,3 +41,10 @@ a {
 img{
     border-radius: 20px;
 }
+
+hr {
+  height: 1px;
+  width: 100%;
+  color: green;
+}
+
