@@ -40,10 +40,26 @@ a {
 
 img{
     border-radius: 20px;
+
 }
 
 
 .border{
     border-bottom: 1px solid black;
 
+}
+
+.col-md-6 img {
+    width: 100px; 
+    height: 100px; 
+}
+
+.col-md-12 img {
+    width: 1075px;
+    height:auto;
+}
+
+.col-md-4 img {
+    width: 300px;
+    height: 200px;
 }
